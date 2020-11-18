@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+G:\APIRestAssured\.metadata\.plugins\org.eclipse.jdt.core
+2103231971.index
