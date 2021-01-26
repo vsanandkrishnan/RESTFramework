@@ -1,0 +1,23 @@
+{
+   "dashboard":{
+      "purchaseAmount":978,
+      "website":"rahulshettyacademy.com"
+   },
+   "courses":[
+      {
+         "title":"Selenium Python",
+         "price":256,
+         "copies":256
+      },
+      {
+         "title":"Cypress",
+         "price":285,
+         "copies":95
+      },
+      {
+         "title":"RPA",
+         "price":35,
+         "copies":35
+      }
+   ]
+}
